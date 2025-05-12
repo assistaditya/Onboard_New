@@ -4,3 +4,4 @@ scipy>=1.10.0
 streamlit>=1.16.0
 streamlit
 plotly
+scikit-learn
